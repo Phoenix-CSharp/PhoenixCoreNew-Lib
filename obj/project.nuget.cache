@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3cR6e0xqcc=",
+  "dgSpecHash": "aFLFjifl1Xk=",
   "success": true,
-  "projectFilePath": "C:\\Core.Lib\\Core.Lib.fsproj",
+  "projectFilePath": "C:\\Core.Lib\\Core.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\lilik\\.nuget\\packages\\fsharp.core\\10.1.301\\fsharp.core.10.1.301.nupkg.sha512"
   ],

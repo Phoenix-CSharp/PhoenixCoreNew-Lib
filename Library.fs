@@ -1,4 +1,4 @@
-﻿namespace Core.Lib
+﻿namespace Core
 
 module Say =
     let hello name =

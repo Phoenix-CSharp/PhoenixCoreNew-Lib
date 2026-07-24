@@ -113,9 +113,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Core.Lib\\Core.Lib.fsproj",
-      "projectName": "Core.Lib",
-      "projectPath": "C:\\Core.Lib\\Core.Lib.fsproj",
+      "projectUniqueName": "C:\\Core.Lib\\Core.fsproj",
+      "projectName": "Core",
+      "projectPath": "C:\\Core.Lib\\Core.fsproj",
       "packagesPath": "C:\\Users\\lilik\\.nuget\\packages\\",
       "outputPath": "C:\\Core.Lib\\obj\\",
       "projectStyle": "PackageReference",
