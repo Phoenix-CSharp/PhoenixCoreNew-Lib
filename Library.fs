@@ -9,7 +9,7 @@ open PhoenixCoreNew.FSharp.Types
 /// Единая точка входа в F#-библиотеку (API Facade).
 /// Предоставляет C#-приложению безопасные методы работы с атрибутами и битовыми флагами.
 /// </summary>
-type PhoenixCoreNew private () =
+type PhoenixLib private () =
 
     /// <summary>
     /// Безопасная проверка наличия битового флага у любого Enum без Unsafe.As.
